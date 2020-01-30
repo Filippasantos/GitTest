@@ -16,7 +16,7 @@ namespace GitTest
             Console.ReadLine();
             Console.WriteLine("fr asså skitdum");
             Console.ReadLine();
-            Console.WriteLine("omg så osmart wtfrick");
+            Console.WriteLine("omg så osmart wtfrick blä");
             Console.ReadLine();
 
         }
