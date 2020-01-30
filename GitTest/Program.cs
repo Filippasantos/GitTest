@@ -12,6 +12,11 @@ namespace GitTest
         {
 
             Console.WriteLine("detta är ba ett test dumbo");
+            Console.WriteLine("sluta läsa");
+            Console.ReadLine();
+            Console.WriteLine("fr asså skitdum");
+            Console.ReadLine();
+            Console.WriteLine("omg så osmart wtfrick");
             Console.ReadLine();
 
         }
